@@ -1,10 +1,3 @@
-/***************************************************************************
- * 
- *  YOUR NAME: Jamie Casino
- *  YOUR EMAIL: jamiec9981@gmail.com
- *  HACKERRANK USERNAME: jamiec9981
- * 
- ***************************************************************************/
 import java.io.*;
 import java.math.*;
 import java.security.*;
